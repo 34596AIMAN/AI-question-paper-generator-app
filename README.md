@@ -1,1 +1,1 @@
-# portfolio-app
+# AI question paper generator app
